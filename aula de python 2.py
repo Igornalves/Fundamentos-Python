@@ -5,7 +5,7 @@ print('\n')
 
 print('                      Bem vindo ao sistema de calculo de duas variaveis')
 
-print('\n')
+print ('\n')
 
 n1 = int(input('                              digite um número: '))
 n2 = int(input('                              digite outro número: '))
