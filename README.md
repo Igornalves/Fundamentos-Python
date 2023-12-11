@@ -2,8 +2,8 @@
 
 Um projeto feito por um **iniciante/intermediario** em programação com total intuito de aprender a tecnologia Python:
 
-<div style="display: inline_block">
-<img align="center" alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center" style="display: inline_block">
+<img alt="java" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ## Um pouco sobre o repositório
